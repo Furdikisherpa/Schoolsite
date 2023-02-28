@@ -1,9 +1,12 @@
-baseurl = "https://furdikisherpa.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 languageCode = "en-us"
 title = "Gyan Jyoti High School"
 themesDir = "themes"
 theme = "hugo-universal-theme"
 
+[submodule]
+  path = path_to_submodule 
+  url = https://github.com/Furdikisherpa/Schoolsite.git
 
 [menu]
 
